@@ -77,13 +77,18 @@ Petal Width (in cm): 0.2
 ## Example Output
 
 ```text
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  PREDICTIVE SYSTEM: IRIS SPECIES (96.7% Accuracy)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Iris Flower Classification
+Model Accuracy: 96.7%
 
-========== PREDICTION RESULT ==========
-Flower Species: SETOSA
-=======================================
+Please provide the characteristics of the sample:
+
+Sepal Length (in cm): 5.1
+Sepal Width (in cm): 3.5
+Petal Length (in cm): 1.4
+Petal Width (in cm): 0.2
+
+Prediction Result
+Flower Species: Setosa
 ```
 
 ## Dataset Information
