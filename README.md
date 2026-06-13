@@ -114,22 +114,3 @@ Features used for prediction:
 4. Evaluate the model using accuracy score.
 5. Accept flower measurements from the user.
 6. Predict the flower species based on the input.
-
-## Learning Outcomes
-
-Through this project, I learned:
-
-- How to work with datasets in Scikit-learn
-- How to split data into training and testing sets
-- How to train a Machine Learning model
-- How to evaluate model performance
-- How to make predictions using user input
-- Basic concepts of supervised learning and classification
-
-## Future Improvements
-
-- Add support for multiple ML algorithms
-- Compare model performances
-- Create a graphical user interface (GUI)
-- Visualize the dataset using charts
-- Deploy as a web application
